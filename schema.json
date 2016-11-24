@@ -1,0 +1,45 @@
+{
+	"fields": [
+		{
+			"name": "MonthReceived",
+			"title": "Month enquiry received",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#date",
+                                "datePattern": "%b-%y"
+			}
+		},
+		{
+			"name": "Ref",
+			"title": "Unique enquiry ref within the reporting period",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#string"
+			}
+		},
+		{
+			"name": "IKMTeamMemberLead",
+			"title": "IKM Team Member assigned enquiry",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#string"
+			}
+		},
+		{
+			"name": "Directorate",
+			"title": "FSA Directorate the enquirer was in",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#string"
+			}
+		},
+		{
+			"name": "EnquiryType",
+			"title": "Subject of enquiry",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#string"
+			}
+		}
+	]
+}
