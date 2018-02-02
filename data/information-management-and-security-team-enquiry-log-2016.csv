@@ -1,0 +1,763 @@
+MonthReceived,Ref,IKMTeamMemberLead,Directorate,EnquiryType
+Jan-16,1,Information & Security Team Leader,Information Research Services,Wisdom
+Jan-16,2,Information Architect,Operations,Wisdom
+Jan-16,3,Information Architect,NI and Organisational Development,Wisdom
+Jan-16,4,Information Architect,Private Office,Wisdom
+Jan-16,5,Information Architect,Policy and Science,Wisdom
+Jan-16,6,Information Architect,NI and Organisational Development,Wisdom
+Jan-16,7,Information Architect,Wales and Local Delivery,Wisdom
+Jan-16,8,Information Architect,Operations,Wisdom
+Jan-16,9,Information Architect,Openness Data and Digital,Wisdom
+Jan-16,10,Information Architect,Policy and Science,Wisdom
+Jan-16,11,Information governance Manager,Policy and Science,Data Sharing
+Jan-16,12,Information & Security Team Leader,Operations,Privacy Impact Assessments
+Jan-16,13,Information Architect,Policy and Science,Wisdom
+Jan-16,14,Information Architect,Wales and Local Delivery,Wisdom
+Jan-16,15,Information Architect,Private Office,Wisdom
+Jan-16,16,Information Architect,Policy and Science,Wisdom
+Jan-16,17,Information & Security Team Leader,Wales and Local Delivery,Records Mngt
+Jan-16,18,Information Architect,Operations,Wisdom
+Jan-16,19,Information Architect,Wales and Local Delivery,Wisdom
+Jan-16,20,Information governance Manager,Private Office,Data Protection Advice
+Jan-16,21,Information & Security Team Leader,External requester,s29 Requests
+Jan-16,22,Information governance Manager,Policy and Science,Data Protection Advice
+Jan-16,23,Information & Security Team Leader,External requester,Data Sharing
+Jan-16,24,Information & Security Team Leader,Finance and Performance,Data Protection Advice
+Jan-16,25,Information Architect,Policy and Science,Wisdom
+Jan-16,26,Information & Security Team Leader,Operations,Wisdom
+Jan-16,27,Information Architect,Operations,Wisdom
+Jan-16,28,Information & Security Team Leader,Openness Data and Digital,Wisdom
+Jan-16,29,Information & Security Team Leader,Finance and Performance,Wisdom
+Jan-16,30,Information Architect,Finance and Performance,Wisdom
+Dec-15,31,Information & Security Team Leader,Policy and Science,Data Sharing
+Jan-16,32,Information Architect,Finance and Performance,Wisdom
+Jan-16,33,Information Management Caseworker,External requester,Data Sharing
+Jan-16,34,Information Architect,Finance and Performance,Wisdom
+Jan-16,35,Information Architect,Wales and Local Delivery,Wisdom
+Jan-16,36,Information Architect,Operations,Wisdom
+Jan-16,37,Information Architect,Wales and Local Delivery,Wisdom
+Jan-16,38,Information Architect,Policy and Science,Records Mngt
+Jan-16,39,Information Architect,Operations,Wisdom
+Jan-16,40,Information Architect,Policy and Science,Wisdom
+Jan-16,41,Information Architect,Finance and Performance,Wisdom
+Jan-16,42,Information Architect,Policy and Science,Wisdom
+Jan-16,43,Information Architect,Operations,Wisdom
+Jan-16,44,Information Architect,Policy and Science,Wisdom
+Jan-16,45,Information Architect,Policy and Science,Wisdom
+Jan-16,46,Information & Security Team Leader,Finance and Performance,Wisdom
+Jan-16,47,Information Architect,Finance and Performance,Wisdom
+Jan-16,48,Information & Security Team Leader,Policy and Science,Data Sharing
+Jan-16,49,Information Architect,External requester,Wisdom
+Jan-16,50,Information Architect,Regulatory and Legal Strategy,Wisdom
+Jan-16,51,Information Architect,Finance and Performance,Network Drives
+Jan-16,52,Information Architect,Operations,Wisdom
+Jan-16,53,Information & Security Team Leader,Policy and Science,Data Protection Advice
+Jan-16,54,Information Architect,Openness Data and Digital,Wisdom
+Jan-16,55,Information Architect,Policy and Science,Wisdom
+Jan-16,56,Information Architect,Private Office,Wisdom
+Jan-16,57,Information Architect,Operations,Wisdom
+Jan-16,58,Security Manager,External requester,Data Sharing
+Feb-16,59,Information Architect,Policy and Science,Wisdom
+Feb-16,60,Information Architect,Regulatory and Legal Strategy,Wisdom
+Feb-16,61,Information Architect,External requester,Wisdom
+Feb-16,62,Information Architect,Private Office,Wisdom
+Feb-16,63,Information Architect,Finance and Performance,Wisdom
+Feb-16,64,Information Architect,External requester,Network Drives
+Feb-16,65,Information & Security Team Leader,Policy and Science,Non IKM Queries
+Feb-16,66,Information Architect,Policy and Science,Wisdom
+Feb-16,67,Information Architect,Finance and Performance,Wisdom
+Feb-16,68,Information & Security Team Leader,Finance and Performance,Wisdom
+Feb-16,69,Information governance Manager,Finance and Performance,Wisdom
+Feb-16,70,Information Architect,External requester,Wisdom
+Feb-16,71,Information Architect,Policy and Science,Records Mngt
+Feb-16,72,Information Architect,Operations,Wisdom
+Feb-16,73,Information Architect,Operations,Wisdom
+Feb-16,74,Information Architect,Wales and Local Delivery,Wisdom
+Feb-16,75,Information Architect,Wales and Local Delivery,Wisdom
+Feb-16,76,Information Architect,Operations,Wisdom
+Feb-16,77,Information Architect,NI and Organisational Development,Wisdom
+Feb-16,78,Information Architect,Wales and Local Delivery,Wisdom
+Feb-16,79,Information Architect,External requester,Network Drives
+Feb-16,80,Information & Security Team Leader,Policy and Science,Data Protection Advice
+Feb-16,81,Information Architect,Policy and Science,Wisdom
+Feb-16,82,Information Architect,Private Office,Wisdom
+Feb-16,83,Information Architect,NI and Organisational Development,Wisdom
+Feb-16,84,Information Architect,Policy and Science,Wisdom
+Feb-16,85,Information Architect,Policy and Science,Wisdom
+Feb-16,86,Information Architect,Operations,Wisdom
+Feb-16,87,Information Architect,Policy and Science,Wisdom
+Feb-16,88,Information Architect,Wales and Local Delivery,Wisdom
+Feb-16,89,Information Architect,Operations,Wisdom
+Feb-16,90,Information Architect,Private Office,Wisdom
+Feb-16,91,Information Architect,External requester,Wisdom
+Feb-16,92,Information Architect,Finance and Performance,Wisdom
+Feb-16,93,Information Architect,Policy and Science,Wisdom
+Feb-16,94,Information Architect,Policy and Science,Wisdom
+Feb-16,95,Information Architect,Regulatory and Legal Strategy,Wisdom
+Feb-16,96,Information Management Caseworker,External requester,Data Sharing
+Feb-16,97,Information governance Manager,Finance and Performance,Records Mngt
+Feb-16,98,Information governance Manager,Finance and Performance,Records Mngt
+Feb-16,99,Information governance Manager,Policy and Science,Data Protection Advice
+Feb-16,100,Information governance Manager,Policy and Science,Data Protection Advice
+Feb-16,101,Information Architect,Operations,Wisdom
+Feb-16,102,Information Architect,Operations,Wisdom
+Feb-16,103,Information & Security Team Leader,Wales and Local Delivery,Email
+Feb-16,104,Information Architect,Regulatory and Legal Strategy,Wisdom
+Feb-16,105,Information Architect,Wales and Local Delivery,Wisdom
+Feb-16,106,Information Architect,Finance and Performance,Wisdom
+Feb-16,107,Information Architect,External requester,Records Mngt
+Mar-16,108,Information Architect,Finance and Performance,Wisdom
+Feb-16,109,Information Architect,Private Office,Wisdom
+Feb-16,110,Information Architect,Regulatory and Legal Strategy,Wisdom
+Feb-16,111,Information Architect,Policy and Science,Wisdom
+Feb-16,112,Information Architect,Policy and Science,Wisdom
+Feb-16,113,Information Architect,Operations,Wisdom
+Feb-16,114,Information & Security Team Leader,Finance and Performance,Data Sharing
+Feb-16,115,Information Architect,External requester,Network Drives
+Feb-16,116,Information Architect,External requester,Network Drives
+Feb-16,117,Information governance Manager,Policy and Science,Data Protection Advice
+Feb-16,118,Information Architect,External requester,Records Mngt
+Feb-16,119,Information governance Manager,Operations,Data Sharing
+Feb-16,120,Information Architect,NI and Organisational Development,Wisdom
+Feb-16,121,Information & Security Team Leader,Operations,Email
+Feb-16,122,Information & Security Team Leader,External requester,Records Mngt
+Feb-16,123,Information & Security Team Leader,External requester,Non IKM Queries
+Feb-16,124,Information Architect,Policy and Science,Wisdom
+Feb-16,125,Information Architect,Regulatory and Legal Strategy,Wisdom
+Feb-16,126,Information Architect,External requester,Email
+Feb-16,127,Information Architect,External requester,Network Drives
+Feb-16,128,Information Architect,Policy and Science,Wisdom
+Feb-16,129,Information & Security Team Leader,Wales and Local Delivery,Wisdom
+Feb-16,130,Information Architect,External requester,Records Mngt
+Feb-16,131,Information & Security Team Leader,Policy and Science,Copyright
+Feb-16,132,Information Architect,Policy and Science,Wisdom
+Feb-16,133,Information Architect,Policy and Science,Wisdom
+Feb-16,134,Information Architect,Policy and Science,Wisdom
+Jan-16,135,Information governance Manager,Finance and Performance,Data Protection Advice
+Feb-16,136,Information governance Manager,Policy and Science,Data Sharing
+Mar-16,137,Information & Security Team Leader,Finance and Performance,Data Protection Advice
+Mar-16,138,Information Management Caseworker,Regulatory and Legal Strategy,Data Protection Advice
+Feb-16,139,Information governance Manager,Policy and Science,Data Protection Advice
+Mar-16,140,Information Architect,External requester,Network Drives
+Mar-16,141,Information Architect,Wales and Local Delivery,Wisdom
+Mar-16,142,Information Architect,Operations,Wisdom
+Mar-16,143,Information Architect,Wales and Local Delivery,Wisdom
+Mar-16,144,Information Architect,External requester,Wisdom
+Mar-16,145,Information Architect,Operations,Wisdom
+Mar-16,146,Information Architect,NI and Organisational Development,Wisdom
+Mar-16,147,Information Architect,Policy and Science,Wisdom
+Mar-16,148,Information Architect,Finance and Performance,Wisdom
+Mar-16,149,Information Architect,Regulatory and Legal Strategy,Wisdom
+Mar-16,150,Information Architect,Wales and Local Delivery,Wisdom
+Mar-16,151,Information & Security Team Leader,Finance and Performance,Records Mngt
+Mar-16,152,Information & Security Team Leader,Policy and Science,Data Sharing
+Mar-16,153,Information Architect,Finance and Performance,Wisdom
+Mar-16,154,Information governance Manager,Operations,Data Protection Advice
+Mar-16,155,Information Architect,Wales and Local Delivery,Wisdom
+Mar-16,156,Information Architect,Policy and Science,Wisdom
+Mar-16,157,Information Architect,Regulatory and Legal Strategy,Wisdom
+Mar-16,158,Information Architect,Regulatory and Legal Strategy,Wisdom
+Mar-16,159,Information Architect,Operations,FEDS
+Mar-16,160,Information Architect,Finance and Performance,Wisdom
+Mar-16,161,Information Architect,Wales and Local Delivery,Wisdom
+Mar-16,162,Information & Security Team Leader,Operations,Records Mngt
+Mar-16,163,Information Architect,Policy and Science,Network Drives
+Mar-16,164,Information Architect,Wales and Local Delivery,Network Drives
+Mar-16,165,Information Architect,Openness Data and Digital,Information Asset Register
+Mar-16,166,Information Architect,Policy and Science,Wisdom
+Mar-16,167,Information & Security Team Leader,Wales and Local Delivery,Email
+Mar-16,168,Information Architect,External requester,Wisdom
+Mar-16,169,Information governance Manager,NI and Organisational Development,Data Protection Advice
+Mar-16,170,Information governance Manager,Policy and Science,Data Protection Advice
+Mar-16,171,Information Architect,Policy and Science,Wisdom
+Mar-16,172,Information Architect,Policy and Science,Wisdom
+Mar-16,173,Information Architect,Policy and Science,Wisdom
+Mar-16,174,Information & Security Team Leader,Finance and Performance,Wisdom
+Mar-16,175,Information & Security Team Leader,External requester,s29 Requests
+Mar-16,176,Information Architect,Private Office,Wisdom
+Mar-16,177,Information Architect,External requester,Data Sharing
+Mar-16,178,Information & Security Team Leader,External requester,Data Sharing
+Mar-16,179,Information & Security Team Leader,Policy and Science,Data Sharing
+Mar-16,180,Information Architect,NI and Organisational Development,Wisdom
+Mar-16,181,Information Architect,Private Office,Wisdom
+Mar-16,182,Information Architect,Policy and Science,Wisdom
+Mar-16,183,Information & Security Team Leader,Policy and Science,Data Sharing
+Mar-16,184,Information Architect,Finance and Performance,Wisdom
+Mar-16,185,Information governance Manager,Finance and Performance,Records Mngt
+Mar-16,186,Information Architect,Policy and Science,Records Mngt
+Mar-16,187,Information Management Caseworker,Operations,Data Protection Advice
+Mar-16,188,Information & Security Team Leader,Regulatory and Legal Strategy,Wisdom
+Mar-16,189,Information Architect,Policy and Science,Wisdom
+Mar-16,190,Information Architect,Policy and Science,Wisdom
+Mar-16,191,Information & Security Team Leader,Policy and Science,Email
+Mar-16,192,Information Architect,External requester,Data Sharing
+Mar-16,193,Information governance Manager,Regulatory and Legal Strategy,Data Protection Advice
+Mar-16,194,Information Architect,Policy and Science,Non IKM Queries
+Mar-16,195,Information Management Caseworker,Operations,Data Sharing
+Mar-16,196,Information Architect,Finance and Performance,Wisdom
+Mar-16,197,Information Architect,Policy and Science,Wisdom
+Mar-16,198,Information & Security Team Leader,Policy and Science,Data Sharing
+Mar-16,199,Information Architect,Operations,Wisdom
+Mar-16,200,Information & Security Team Leader,Policy and Science,Email
+Mar-16,201,Information Management Caseworker,Policy and Science,Data Sharing
+Mar-16,202,Information & Security Team Leader,Policy and Science,Email
+Mar-16,203,Information Architect,Wales and Local Delivery,Wisdom
+Mar-16,204,Deputy Security Officer,NI and Organisational Development,Security - IT/Information
+Mar-16,205,Information Architect,Policy and Science,Wisdom
+Mar-16,206,Information Architect,External requester,Wisdom
+Mar-16,207,Information Architect,Private Office,Wisdom
+Mar-16,208,Information governance Manager,Operations,Data Protection Advice
+Apr-16,209,Information Architect,Openness Data and Digital,Wisdom
+Apr-16,210,Information Management Caseworker,External requester,Wisdom
+Apr-16,211,Information Management Caseworker,Policy and Science,Data Sharing
+Apr-16,212,Information & Security Team Leader,Operations,Data Sharing
+Apr-16,213,Information Architect,Regulatory and Legal Strategy,Wisdom
+Apr-16,214,Information Architect,Finance and Performance,Wisdom
+Apr-16,215,Information Architect,Private Office,Wisdom
+Apr-16,216,Information Architect,Finance and Performance,Wisdom
+Apr-16,217,Information Architect,Finance and Performance,Wisdom
+Apr-16,218,Information Architect,Policy and Science,Wisdom
+Apr-16,219,Information & Security Team Leader,External requester,Network Drives
+Apr-16,220,Information & Security Team Leader,Private Office,Email
+Apr-16,221,Information Architect,Wales and Local Delivery,Wisdom
+Apr-16,222,Information Architect,Wales and Local Delivery,Wisdom
+Apr-16,223,Information Architect,Finance and Performance,Wisdom
+Apr-16,224,Information governance Manager,Finance and Performance,Data Sharing
+Apr-16,225,Information & Security Team Leader,Regulatory and Legal Strategy,Non IKM Queries
+Apr-16,226,Information & Security Team Leader,Policy and Science,Data Protection Advice
+Apr-16,227,Information Architect,Finance and Performance,Wisdom
+Apr-16,228,Information Architect,Finance and Performance,Wisdom
+Apr-16,229,Information Architect,Policy and Science,Wisdom
+Apr-16,230,Information Architect,Policy and Science,Wisdom
+Apr-16,231,Information Architect,Wales and Local Delivery,Wisdom
+Apr-16,232,Information Architect,Finance and Performance,Wisdom
+Apr-16,233,Information & Security Team Leader,Private Office,Email
+Apr-16,234,Information & Security Team Leader,External requester,Email
+Apr-16,235,Information Architect,Wales and Local Delivery,Wisdom
+Apr-16,236,Information Architect,Regulatory and Legal Strategy,Wisdom
+Apr-16,237,Information Architect,Regulatory and Legal Strategy,Wisdom
+Apr-16,238,Information Architect,External requester,Non IKM Queries
+Apr-16,239,Information & Security Team Leader,Policy and Science,Email
+Apr-16,240,Information Architect,Private Office,Wisdom
+Apr-16,241,Information Architect,Regulatory and Legal Strategy,Wisdom
+Apr-16,242,Information Architect,Policy and Science,Wisdom
+Apr-16,243,Information Architect,Wales and Local Delivery,Network Drives
+Apr-16,244,Information Architect,Policy and Science,Non IKM Queries
+Apr-16,245,Information Architect,Operations,Wisdom
+Apr-16,246,Information Architect,Policy and Science,Wisdom
+Apr-16,247,Information Architect,Wales and Local Delivery,Wisdom
+Apr-16,248,Information governance Manager,Finance and Performance,Offsite Storage Issues
+Apr-16,249,Information governance Manager,Operations,Offsite Storage Issues
+Apr-16,250,Information & Security Team Leader,Private Office,Email
+Apr-16,251,Information Architect,Policy and Science,Non IKM Queries
+Apr-16,252,Information governance Manager,Regulatory and Legal Strategy,Records Mngt
+Apr-16,253,Information Architect,Private Office,Wisdom
+Apr-16,254,Information Architect,Operations,Non IKM Queries
+Apr-16,255,Information Architect,Regulatory and Legal Strategy,Wisdom
+Apr-16,256,Information Architect,Finance and Performance,Non IKM Queries
+Apr-16,257,Information & Security Team Leader,Operations,Privacy Impact Assessments
+Apr-16,258,Information & Security Team Leader,Policy and Science,Copyright
+Apr-16,259,Information Architect,Policy and Science,Wisdom
+Apr-16,260,Information Architect,Regulatory and Legal Strategy,Wisdom
+Apr-16,261,Information Architect,Wales and Local Delivery,Wisdom
+Apr-16,262,Information Architect,Finance and Performance,Network Drives
+Apr-16,263,Information Architect,Policy and Science,Wisdom
+Apr-16,264,Information Architect,Private Office,Wisdom
+Apr-16,265,Information Architect,Operations,Non IKM Queries
+Apr-16,266,Information Architect,Policy and Science,Data Protection Advice
+Apr-16,267,Information Architect,Finance and Performance,Wisdom
+May-16,268,Information Architect,Policy and Science,Wisdom
+May-16,269,Information Architect,Finance and Performance,Wisdom
+May-16,270,Security Manager,Policy and Science,Security - IT/Information
+May-16,271,Information Architect,Wales and Local Delivery,Wisdom
+May-16,272,Deputy Security Officer,Private Office,Security - IT/Information
+May-16,273,Deputy Security Officer,External requester,Security - IT/Information
+Apr-16,274,Information & Security Team Leader,Wales and Local Delivery,Data Sharing
+May-16,275,Information & Security Team Leader,Operations,Data Sharing
+May-16,276,Information Architect,NI and Organisational Development,Wisdom
+May-16,277,Deputy Security Officer,External requester,Security - Personal
+May-16,278,Information Architect,Regulatory and Legal Strategy,Wisdom
+May-16,279,Information Architect,Operations,Wisdom
+May-16,280,Information Architect,Operations,Wisdom
+May-16,281,Information Architect,Wales and Local Delivery,Wisdom
+May-16,282,Information Architect,Regulatory and Legal Strategy,Wisdom
+May-16,283,Information Architect,Operations,Wisdom
+May-16,284,Information governance Manager,Operations,Data Protection Advice
+May-16,285,Security Manager,Private Office,Security - Personal
+May-16,286,Information Architect,Regulatory and Legal Strategy,Wisdom
+May-16,287,Security Manager,Regulatory and Legal Strategy,Security - IT/Information
+May-16,288,Information Architect,Policy and Science,Records Mngt
+May-16,289,Information Architect,Operations,Wisdom
+May-16,290,Information Architect,NI and Organisational Development,Wisdom
+May-16,291,Information Architect,Finance and Performance,Wisdom
+May-16,292,Information & Security Team Leader,Policy and Science,Wisdom
+May-16,293,Information Architect,Policy and Science,Wisdom
+May-16,294,Information & Security Team Leader,Policy and Science,Data Sharing
+May-16,295,Information & Security Team Leader,Policy and Science,Data Protection Advice
+May-16,296,Information & Security Team Leader,Regulatory and Legal Strategy,Data Sharing
+May-16,297,Information Architect,Finance and Performance,Wisdom
+May-16,298,Information governance Manager,Policy and Science,Offsite Storage Issues
+May-16,299,Information & Security Team Leader,Regulatory and Legal Strategy,Data Sharing
+May-16,300,Information & Security Team Leader,Operations,s29 Requests
+May-16,301,Information & Security Team Leader,Policy and Science,Data Protection Advice
+Apr-16,302,Information Architect,External requester,Wisdom
+May-16,303,Security Manager,External requester,Security - Personal
+May-16,304,Information governance Manager,Openness Data and Digital,Non IKM Queries
+May-16,305,Information governance Manager,Wales and Local Delivery,Data Protection Advice
+May-16,306,Information governance Manager,Operations,Data Protection Advice
+May-16,307,Information & Security Team Leader,Wales and Local Delivery,Security - Physical
+May-16,308,Information & Security Team Leader,External requester,Network Drives
+May-16,309,Information & Security Team Leader,Operations,Wisdom
+May-16,310,Security Manager,External requester,Non IKM Queries
+May-16,311,Information Architect,External requester,Wisdom
+Apr-16,312,Information & Security Team Leader,Policy and Science,Data Sharing
+Apr-16,313,Security Manager,Wales and Local Delivery,Data Protection Advice
+Apr-16,314,Information Architect,Private Office,Wisdom
+May-16,315,Information Architect,Finance and Performance,Wisdom
+May-16,316,Information governance Manager,Policy and Science,Data Sharing
+May-16,317,Information Architect,Policy and Science,Wisdom
+May-16,318,Information & Security Team Leader,Regulatory and Legal Strategy,Data Sharing
+Mar-16,319,Information & Security Team Leader,Finance and Performance,Security - IT/Information
+May-16,320,Security Manager,External requester,Information Asset Register
+May-16,321,Security Manager,Operations,Information Asset Register
+May-16,322,Information Architect,Wales and Local Delivery,Wisdom
+May-16,323,Information Architect,Operations,Wisdom
+May-16,324,Information & Security Team Leader,Wales and Local Delivery,Wisdom
+May-16,325,Information Architect,Operations,Wisdom
+May-16,326,Information & Security Team Leader,External requester,Network Drives
+May-16,327,Security Manager,Policy and Science,Data Sharing
+May-16,328,Information Architect,Operations,Wisdom
+May-16,329,Information governance Manager,Operations,Data Protection Advice
+May-16,330,Information Architect,Wales and Local Delivery,Wisdom
+May-16,331,Information Architect,External requester,Wisdom
+May-16,332,Information & Security Team Leader,Wales and Local Delivery,Wisdom
+May-16,333,Information Architect,External requester,Wisdom
+May-16,334,Information & Security Team Leader,Private Office,Email
+May-16,335,Information governance Manager,External requester,Offsite Storage Issues
+May-16,336,Information & Security Team Leader,Policy and Science,Copyright
+May-16,337,Information Architect,Openness Data and Digital,Wisdom
+May-16,338,Information Architect,Finance and Performance,Wisdom
+May-16,339,Information Architect,External requester,Wisdom
+May-16,340,Security Manager,External requester,Security - IT/Information
+May-16,341,Information Architect,Policy and Science,Wisdom
+May-16,342,Information Architect,Policy and Science,Wisdom
+May-16,343,Information Architect,Policy and Science,Wisdom
+May-16,344,Information Architect,NI and Organisational Development,Wisdom
+Jun-16,345,Information Architect,Operations,Wisdom
+May-16,346,Information & Security Team Leader,Operations,Data Protection Advice
+Jun-16,347,Information Architect,NI and Organisational Development,Wisdom
+Jun-16,348,Information & Security Team Leader,Policy and Science,Copyright
+Jun-16,349,Information Architect,Wales and Local Delivery,Wisdom
+Jun-16,350,Information Architect,Operations,Wisdom
+Jun-16,351,Information Architect,Private Office,Wisdom
+Jun-16,352,Deputy Security Officer,Regulatory and Legal Strategy,Data Sharing
+Jun-16,353,Information Architect,External requester,Wisdom
+Jun-16,354,Information governance Manager,Finance and Performance,Offsite Storage Issues
+Jun-16,355,Information Architect,Wales and Local Delivery,Wisdom
+Jun-16,356,Security Manager,External requester,Security - IT/Information
+Jun-16,357,Information Architect,External requester,Wisdom
+Jun-16,358,Security Manager,Regulatory and Legal Strategy,Wisdom
+Jun-16,359,Information Architect,Openness Data and Digital,Wisdom
+Jun-16,360,Deputy Security Officer,Wales and Local Delivery,Network Drives
+Jun-16,361,Information Architect,Wales and Local Delivery,Network Drives
+Jun-16,362,Information Architect,Private Office,Paper Records
+Jun-16,363,Information Architect,External requester,Wisdom
+Jun-16,364,Information Architect,Wales and Local Delivery,Wisdom
+Jun-16,365,Security Manager,Wales and Local Delivery,Data Sharing
+Jun-16,366,Information Architect,External requester,Network Drives
+Jun-16,367,Security Manager,External requester,Security - Personal
+Jun-16,368,Information Architect,External requester,Wisdom
+Jun-16,369,Information & Security Team Leader,External requester,Data Sharing
+Jun-16,370,Information Architect,Regulatory and Legal Strategy,Wisdom
+Jun-16,371,Information Architect,External requester,Wisdom
+Jun-16,372,Information Architect,Wales and Local Delivery,Wisdom
+Jun-15,373,Information Architect,NI and Organisational Development,Wisdom
+Jun-15,374,Information Architect,Finance and Performance,Wisdom
+Jun-15,375,Information Architect,External requester,Network Drives
+Jun-16,376,Information Architect,External requester,Network Drives
+Jun-16,377,Information governance Manager,Finance and Performance,Records Mngt
+Jun-16,378,Information Architect,Operations,Wisdom
+Jun-16,379,Information Architect,Finance and Performance,Wisdom
+Jun-16,380,Information & Security Team Leader,Finance and Performance,Wisdom
+Jun-16,381,Information Architect,Wales and Local Delivery,Records Mngt
+Jun-16,382,Information governance Manager,Operations,Data Sharing
+Jun-16,383,Information Architect,Wales and Local Delivery,Paper Records
+Jun-16,384,Information Architect,Finance and Performance,Wisdom
+Jun-16,385,Deputy Security Officer,External requester,Data Protection Advice
+Jun-16,386,Information Architect,Openness Data and Digital,Wisdom
+Jun-16,387,Information Architect,Policy and Science,Wisdom
+Jun-16,388,Information Architect,Policy and Science,Wisdom
+Jun-16,389,Information Architect,Finance and Performance,Network Drives
+Jun-16,390,Information Architect,Finance and Performance,Wisdom
+Jun-16,391,Information Architect,Policy and Science,Wisdom
+Jun-16,392,Information & Security Team Leader,External requester,Non IKM Queries
+Jun-16,393,Information & Security Team Leader,Policy and Science,Non IKM Queries
+Jun-16,394,Information Architect,Operations,Wisdom
+Jun-16,395,Information Architect,Regulatory and Legal Strategy,Wisdom
+Jun-16,396,Information Architect,Finance and Performance,Wisdom
+Jun-16,397,Information Architect,Private Office,Wisdom
+Jun-16,398,Information Architect,Wales and Local Delivery,Wisdom
+Jul-16,399,Information Architect,Policy and Science,Email
+Jul-16,400,Information Architect,Operations,Email
+Jul-16,401,Information Architect,Finance and Performance,Data Sharing
+Jul-16,402,Information & Security Team Leader,Finance and Performance,Wisdom
+Jul-16,403,Information & Security Team Leader,Wales and Local Delivery,Data Sharing
+Jul-16,404,Information governance Manager,Operations,Data Sharing
+Jul-16,405,Security Manager,NI and Organisational Development,Security - IT/Information
+Jun-16,406,Security Manager,NI and Organisational Development,Security - Personal
+Jun-16,407,Security Manager,Openness Data and Digital,Security - Personal
+Jun-16,408,Security Manager,External requester,Security - IT/Information
+Jul-16,409,Information governance Manager,NI and Organisational Development,Data Sharing
+Jul-16,410,Information Architect,Regulatory and Legal Strategy,Wisdom
+Jul-16,411,Information Architect,Finance and Performance,Wisdom
+Jul-16,412,Information Architect,Policy and Science,Wisdom
+Jul-16,413,Information Architect,Wales and Local Delivery,Wisdom
+Jul-16,414,Information Architect,Finance and Performance,Wisdom
+Jul-16,415,Information Architect,Operations,Wisdom
+Jul-16,416,Information governance Manager,Openness Data and Digital,Data Protection Advice
+Jul-16,417,Information Architect,NI and Organisational Development,Wisdom
+Jul-16,418,Security Manager,Regulatory and Legal Strategy,Security - IT/Information
+Jul-16,419,Information governance Manager,Private Office,Data Protection Advice
+Jun-16,420,Information governance Manager,Finance and Performance,Offsite Storage Issues
+Jul-16,421,Security Manager,Openness Data and Digital,Security - IT/Information
+Jul-16,422,Information governance Manager,Openness Data and Digital,Data Protection Advice
+Jul-16,423,Information Architect,Openness Data and Digital,Wisdom
+Jul-16,424,Information governance Manager,Openness Data and Digital,Data Protection Advice
+Jul-16,425,Information Architect,Policy and Science,Wisdom
+Jul-16,426,Information Architect,Wales and Local Delivery,Email
+Jul-16,427,Information Architect,Regulatory and Legal Strategy,Wisdom
+Jul-16,428,Information Architect,Policy and Science,Wisdom
+Jul-16,429,Information Architect,Finance and Performance,Wisdom
+Jul-16,430,Security Manager,Finance and Performance,Security - IT/Information
+Jul-17,431,Information Architect,External requester,Security - IT/Information
+Jul-16,432,Information governance Manager,Finance and Performance,Data Sharing
+Jul-16,433,Information governance Manager,Operations,Data Sharing
+Jul-16,434,Information Architect,Operations,Wisdom
+Jul-16,435,Information Architect,Finance and Performance,Wisdom
+Jul-16,436,Information Architect,Operations,Wisdom
+Jul-16,437,Information Architect,Finance and Performance,Wisdom
+Jul-16,438,Information Architect,Regulatory and Legal Strategy,Wisdom
+Jul-16,439,Information & Security Team Leader,Policy and Science,Data Sharing
+Jul-16,440,Sian,Private Office,Data Sharing
+Jul-16,441,Information Architect,Regulatory and Legal Strategy,Wisdom
+Jul-16,442,Information Architect,NI and Organisational Development,Data Sharing
+Jul-16,443,Security Manager,NI and Organisational Development,Data Protection Advice
+Jul-16,444,Information governance Manager,Policy and Science,Offsite Storage Issues
+Jul-16,445,Information Architect,Wales and Local Delivery,Wisdom
+Jul-16,446,Information Architect,Policy and Science,Wisdom
+Jul-16,447,Information governance Manager,External requester,Offsite Storage Issues
+Jul-16,448,Information Architect,Operations,Data Sharing
+Jul-16,449,Information Architect,Finance and Performance,Wisdom
+Jul-16,450,Information Architect,Operations,Wisdom
+Jul-16,451,Information Architect,Wales and Local Delivery,Wisdom
+Jul-16,452,Information Architect,External requester,Wisdom
+Jul-16,453,Security Manager,External requester,Security - IT/Information
+Jul-16,454,Information Architect,Wales and Local Delivery,Wisdom
+Jul-16,455,Information Architect,Finance and Performance,Wisdom
+Jul-16,456,Information Architect,External requester,Wisdom
+Jul-16,457,Information Architect,Private Office,Wisdom
+Jul-16,458,Information & Security Team Leader,Policy and Science,Wisdom
+Jul-16,459,Information Architect,Operations,Wisdom
+Aug-16,460,Information Architect,Finance and Performance,Wisdom
+Aug-16,461,Information Architect,Openness Data and Digital,Wisdom
+Aug-16,462,Information governance Manager,Operations,Data Sharing
+Aug-16,463,Information Architect,Regulatory and Legal Strategy,Wisdom
+Aug-16,464,Information Architect,Policy and Science,Wisdom
+Aug-16,465,Security Manager,Wales and Local Delivery,Data Protection Advice
+Aug-16,466,Information Architect,Regulatory and Legal Strategy,Wisdom
+Aug-16,467,Information Architect,Policy and Science,Wisdom
+Aug-16,468,Information Architect,Regulatory and Legal Strategy,Wisdom
+Aug-16,469,Information Architect,NI and Organisational Development,Data Sharing
+Aug-16,470,Information Architect,Operations,Records Mngt
+Aug-16,471,Information governance Manager,Operations,Data Protection Advice
+Aug-16,472,Information Architect,Wales and Local Delivery,Wisdom
+Aug-16,473,Security Manager,Regulatory and Legal Strategy,Data Protection Advice
+Aug-16,474,Information Architect,Regulatory and Legal Strategy,Wisdom
+Aug-16,475,Security Manager,External requester,Security - IT/Information
+Aug-16,476,Information Architect,Policy and Science,Wisdom
+Aug-16,477,Information Architect,Regulatory and Legal Strategy,Wisdom
+Aug-16,478,Information Architect,NI and Organisational Development,Data Sharing
+Aug-16,479,Information Architect,Operations,Wisdom
+Aug-16,480,Information Architect,Openness Data and Digital,Data Protection Advice
+Aug-16,481,Information Architect,Operations,Wisdom
+Aug-16,482,Security Manager,External requester,Security - IT/Information
+Aug-16,483,Security Manager,External requester,Email
+Aug-16,484,Security Manager,External requester,Email
+Aug-16,485,Security Manager,Policy and Science,Security - IT/Information
+Aug-16,486,Security Manager,Policy and Science,Security - Physical
+Aug-16,487,Deputy Security Officer,External requester,Security - Personal
+Aug-16,488,Deputy Security Officer,Policy and Science,Security - Personal
+Aug-16,489,Deputy Security Officer,Finance and Performance,Security - Personal
+Aug-16,490,Deputy Security Officer,Regulatory and Legal Strategy,Security - Personal
+Aug-16,491,Deputy Security Officer,Finance and Performance,Security - Personal
+Aug-16,492,Deputy Security Officer,External requester,Security - IT/Information
+Aug-16,493,Deputy Security Officer,External requester,Security - IT/Information
+Aug-16,494,Deputy Security Officer,Policy and Science,Security - IT/Information
+Aug-16,495,Deputy Security Officer,Finance and Performance,Security - Physical
+Aug-16,496,Deputy Security Officer,Policy and Science,Security - IT/Information
+Aug-16,497,Security Manager,External requester,Security - IT/Information
+Aug-16,498,Security Manager,Operations,Security - IT/Information
+Aug-16,499,Information & Security Team Leader,Policy and Science,Email
+Aug-16,500,Information governance Manager,Finance and Performance,Data Sharing
+Aug-16,501,Deputy Security Officer,Openness Data and Digital,Security - Physical
+Aug-16,502,Information Architect,NI and Organisational Development,Wisdom
+Aug-16,503,Information Architect,Policy and Science,Wisdom
+Aug-16,504,Information Architect,Policy and Science,Wisdom
+Aug-16,505,Deputy Security Officer,Regulatory and Legal Strategy,Email
+Aug-16,506,Information Architect,Policy and Science,Wisdom
+Aug-16,507,Information Architect,Regulatory and Legal Strategy,Wisdom
+Aug-16,508,Information Architect,Finance and Performance,Wisdom
+Aug-16,509,Information & Security Team Leader,Openness Data and Digital,Email
+Aug-16,510,Deputy Security Officer,External requester,Security - IT/Information
+Aug-16,511,Information Architect,Private Office,Wisdom
+Aug-16,512,Information Architect,Regulatory and Legal Strategy,Wisdom
+Aug-16,513,Information Architect,External requester,Wisdom
+Aug-16,514,Information governance Manager,Operations,Data Protection Advice
+Aug-16,515,Information Architect,Regulatory and Legal Strategy,Wisdom
+Aug-16,516,Deputy Security Officer,External requester,Security - IT/Information
+Aug-16,517,Information & Security Team Leader,Finance and Performance,Privacy Impact Assessments
+Aug-16,518,Deputy Security Officer,Private Office,Security - Personal
+Aug-16,519,Security Manager,External requester,Data Protection Advice
+Aug-16,520,Security Manager,Finance and Performance,Data Protection Advice
+Aug-16,521,Information Architect,Finance and Performance,Wisdom
+Aug-16,522,Security Manager,Policy and Science,Data Protection Advice
+Aug-16,523,Information Architect,Wales and Local Delivery,Wisdom
+Aug-16,524,Information Architect,Finance and Performance,Wisdom
+Aug-16,525,Information & Security Team Leader,Regulatory and Legal Strategy,Data Sharing
+Aug-16,526,Information & Security Team Leader,Operations,Records Mngt
+Aug-16,527,Information Architect,Wales and Local Delivery,Wisdom
+Aug-16,528,Information Architect,Openness Data and Digital,Wisdom
+Sep-16,529,Security Manager,Operations,Security - IT/Information
+Sep-16,530,Information & Security Team Leader,Wales and Local Delivery,Records Mngt
+Sep-16,531,Information & Security Team Leader,External requester,Data Sharing
+Aug-16,532,Deputy Security Officer,External requester,Network Drives
+Aug-16,533,Deputy Security Officer,External requester,Security - Physical
+Sep-16,534,Information governance Manager,Finance and Performance,Data Protection Advice
+Sep-16,535,Information & Security Team Leader,External requester,Records Mngt
+Sep-16,536,Security Manager,Policy and Science,Security - Physical
+Sep-16,537,Information Architect,Regulatory and Legal Strategy,Wisdom
+Sep-16,538,Information & Security Team Leader,External requester,Wisdom
+Sep-16,539,Information Architect,External requester,Data Sharing
+Sep-16,540,Information governance Manager,Openness Data and Digital,Data Sharing
+Sep-16,541,Information Architect,External requester,Network Drives
+Sep-16,542,Information & Security Team Leader,Openness Data and Digital,Email
+Sep-16,543,Security Manager,Finance and Performance,Data Protection Advice
+Sep-16,544,Information Architect,External requester,Wisdom
+Sep-16,545,Information Architect,Finance and Performance,Wisdom
+Sep-16,546,Security Manager,External requester,Security - Personal
+Sep-16,547,Information Architect,Finance and Performance,Wisdom
+Sep-16,548,Information Architect,Policy and Science,Wisdom
+Sep-16,549,Information Architect,Openness Data and Digital,Wisdom
+Sep-16,550,Information & Security Team Leader,Finance and Performance,Records Mngt
+Sep-16,551,Information Architect,NI and Organisational Development,Wisdom
+Sep-16,552,Information governance Manager,NI and Organisational Development,Data Protection Advice
+Sep-16,553,Security Manager,External requester,Security - Physical
+Sep-16,554,Information Architect,Policy and Science,Wisdom
+Sep-16,555,Information & Security Team Leader,Regulatory and Legal Strategy,Data Sharing
+Sep-16,556,Security Manager,External requester,Security - IT/Information
+Sep-16,557,Information Architect,External requester,Wisdom
+Sep-16,558,Security Manager,Finance and Performance,Security - IT/Information
+Sep-16,559,Information Architect,External requester,Wisdom
+Sep-16,560,Information Architect,Policy and Science,Wisdom
+Sep-16,561,Security Manager,Openness Data and Digital,Security - IT/Information
+Sep-16,562,Security Manager,Openness Data and Digital,Security - IT/Information
+Sep-16,563,Deputy Security Officer,Openness Data and Digital,Data Protection Advice
+Sep-16,564,Security Manager,Policy and Science,Security - IT/Information
+Sep-16,565,Information Architect,External requester,Wisdom
+Sep-16,566,Information & Security Team Leader,Operations,Records Mngt
+Sep-16,567,Information Architect,Policy and Science,Wisdom
+Sep-16,568,Information Architect,Finance and Performance,Wisdom
+Sep-16,569,Information governance Manager,Finance and Performance,Offsite Storage Issues
+Sep-16,570,Information Architect,Policy and Science,Wisdom
+Sep-16,571,Information Architect,Wales and Local Delivery,Email
+Sep-16,572,Deputy Security Officer,Openness Data and Digital,Security - Physical
+Sep-16,573,Information Architect,Wales and Local Delivery,Wisdom
+Sep-16,574,Deputy Security Officer,External requester,Security - Personal
+Sep-16,575,Security Manager,External requester,Security - IT/Information
+Sep-16,576,Information Architect,Policy and Science,Wisdom
+Sep-16,577,Information Architect,Policy and Science,Wisdom
+Sep-16,578,Security Manager,External requester,Security - IT/Information
+Sep-16,579,Information Architect,Finance and Performance,Wisdom
+Sep-16,580,Information Architect,Openness Data and Digital,Wisdom
+Oct-16,581,Security Manager,External requester,Email
+Oct-16,582,Security Manager,Policy and Science,Security - IT/Information
+Oct-16,583,Security Manager,Wales and Local Delivery,Data Sharing
+Oct-16,584,Information Architect,Regulatory and Legal Strategy,Wisdom
+Oct-16,585,Information Architect,Finance and Performance,Wisdom
+Oct-16,586,Information Architect,Wales and Local Delivery,Records Mngt
+Oct-16,587,Information Architect,NI and Organisational Development,Wisdom
+Oct-16,588,Information Architect,External requester,Data Sharing
+Oct-16,589,Information Architect,NI and Organisational Development,Wisdom
+Oct-16,590,Security Manager,External requester,Security - IT/Information
+Sep-16,591,Security Manager,External requester,Security - IT/Information
+Oct-16,592,Security Manager,External requester,Security - IT/Information
+Oct-16,593,Information & Security Team Leader,External requester,Network Drives
+Oct-16,594,Information Architect,Operations,Wisdom
+Oct-16,595,Information Architect,Finance and Performance,Wisdom
+Oct-16,596,Security Manager,External requester,Security - IT/Information
+Oct-16,597,Security Manager,External requester,Security - IT/Information
+Oct-16,598,Security Manager,Openness Data and Digital,Security - Personal
+Oct-16,599,Security Manager,External requester,Security - IT/Information
+Oct-16,600,Information governance Manager,Operations,Data Protection Advice
+Oct-16,601,Information & Security Team Leader,External requester,Network Drives
+Sep-16,602,Information governance Manager,External requester,Freedom of Information
+Oct-16,603,Security Manager,External requester,Security - IT/Information
+Oct-16,604,Information Architect,Operations,Wisdom
+Dec-16,605,Information Architect,Regulatory and Legal Strategy,Wisdom
+Oct-16,606,Security Manager,External requester,Security - IT/Information
+Oct-16,607,Information governance Manager,Openness Data and Digital,Privacy Impact Assessments
+Oct-16,608,Security Manager,External requester,Security - IT/Information
+Oct-16,609,Information Architect,Finance and Performance,Wisdom
+Oct-16,610,Information Architect,External requester,Wisdom
+Oct-16,611,Security Manager,External requester,Security - IT/Information
+Oct-16,612,Information Architect,Finance and Performance,Wisdom
+Oct-16,613,Information Architect,Policy and Science,Wisdom
+Oct-16,614,Security Manager,External requester,Email
+Oct-16,615,Information Architect,External requester,Wisdom
+Oct-16,616,Information Architect,Finance and Performance,Wisdom
+Oct-16,617,Security Manager,Openness Data and Digital,Security - IT/Information
+Oct-16,618,Information & Security Team Leader,Operations,Data Protection Advice
+Oct-16,619,Information Architect,Policy and Science,Wisdom
+Oct-16,620,Information Architect,Regulatory and Legal Strategy,FEDS
+Oct-16,621,Information Architect,Finance and Performance,Wisdom
+Oct-16,622,Information & Security Team Leader,Openness Data and Digital,Data Protection Advice
+Oct-16,623,Security Manager,Regulatory and Legal Strategy,Non IKM Queries
+Oct-16,624,Information Architect,Finance and Performance,Offsite Storage Issues
+Oct-16,625,Deputy Security Officer,Operations,Wisdom
+Oct-16,626,Deputy Security Officer,Openness Data and Digital,Data Protection Advice
+Oct-16,627,Deputy Security Officer,Finance and Performance,Security - IT/Information
+Oct-16,628,Deputy Security Officer,External requester,Security - Personal
+Oct-16,629,Deputy Security Officer,Private Office,Non IKM Queries
+Oct-16,630,Security Manager,External requester,Wisdom
+Oct-16,631,Security Manager,External requester,Data Protection Advice
+Oct-16,632,Information Architect,External requester,Network Drives
+Oct-16,633,Information Architect,External requester,Data Sharing Advice
+Oct-16,634,Information governance Manager,Wales and Local Delivery,Data Protection Advice
+Oct-16,635,Information Architect,Wales and Local Delivery,Wisdom
+Oct-16,636,Information & Security Team Leader,Openness Data and Digital,Email
+Oct-16,637,Information Architect,Wales and Local Delivery,Wisdom
+Oct-16,638,Information governance Manager,NI and Organisational Development,Data Sharing Advice
+Oct-16,639,Deputy Security Officer,Policy and Science,Data Protection Advice
+Oct-16,640,Information Architect,Wales and Local Delivery,Wisdom
+Oct-16,641,Security Manager,Openness Data and Digital,Security - Personal
+Oct-16,642,Security Manager,External requester,Security - IT/Information
+Nov-16,643,Security Manager,External requester,Security - IT/Information
+Nov-16,644,Information Architect,Policy and Science,Wisdom
+Nov-16,645,Information Architect,Finance and Performance,Wisdom
+Nov-16,646,Information & Security Team Leader,Operations,Data Sharing Advice
+Nov-16,647,Deputy Security Officer,External requester,Security - IT/Information
+Nov-16,648,Information Architect,Regulatory and Legal Strategy,Wisdom
+Nov-16,649,Information Architect,Finance and Performance,Wisdom
+Nov-16,650,Security Manager,Finance and Performance,Data Protection Advice
+Nov-16,651,Security Manager,Openness Data and Digital,Security - Personal
+Nov-16,652,Information Architect,Operations,Wisdom
+Nov-16,653,Information Architect,Finance and Performance,Wisdom
+Nov-16,654,Information & Security Team Leader,Policy and Science,Data Protection Advice
+Oct-16,655,Information & Security Team Leader,Operations,Data Sharing Advice
+Nov-16,656,Security Manager,External requester,Security - IT/Information
+Nov-16,657,Security Manager,External requester,Security - Personal
+Nov-16,658,Security Manager,Wales and Local Delivery,Security - Personal
+Nov-16,659,Security Manager,External requester,Security - IT/Information
+Nov-16,660,Information & Security Team Leader,Openness Data and Digital,Privacy Impact Assessments
+Nov-16,661,Deputy Security Officer,Openness Data and Digital,Security - IT/Information
+Nov-16,662,Deputy Security Officer,Openness Data and Digital,Offsite Storage Issues
+Nov-16,663,Information Architect,External requester,Wisdom
+Nov-16,664,Information Architect,Operations,Wisdom
+Nov-16,665,Information Architect,Operations,Wisdom
+Nov-16,666,Security Manager,Openness Data and Digital,Data Protection Advice
+Nov-16,667,Deputy Security Officer,NI and Organisational Development,Security - Personal
+Nov-16,668,Deputy Security Officer,Wales and Local Delivery,Security - IT/Information
+Nov-16,669,Information & Security Team Leader,Operations,Data Sharing Advice
+Nov-16,670,Security Manager,Wales and Local Delivery,Copyright
+Nov-16,671,Deputy Security Officer,NI and Organisational Development,Security - Physical
+Nov-16,672,Information Architect,Wales and Local Delivery,Wisdom
+Nov-16,673,Security Manager,External requester,Wisdom
+Nov-16,674,Information Architect,External requester,Data Sharing Advice
+Nov-16,675,Information Architect,Regulatory and Legal Strategy,Wisdom
+Nov-16,676,Information & Security Team Leader,External requester,Wisdom
+Nov-16,677,Security Manager,Policy and Science,Non IKM Queries
+Nov-16,678,Information Architect,Wales and Local Delivery,Security - Personal
+Nov-16,679,Information governance Manager,Finance and Performance,Data Sharing Advice
+Nov-16,680,Information Architect,Finance and Performance,Wisdom
+Nov-16,681,Information & Security Team Leader,Wales and Local Delivery,Wisdom
+Nov-16,682,Information & Security Team Leader,Policy and Science,Wisdom
+Nov-16,683,Information & Security Team Leader,Openness Data and Digital,Security - IT/Information
+Nov-16,684,Security Manager,External requester,Data Sharing Advice
+Nov-16,685,Information & Security Team Leader,Openness Data and Digital,Data Protection Advice
+Nov-16,686,Information Architect,Openness Data and Digital,Wisdom
+Nov-16,687,Information Architect,External requester,Data Sharing Advice
+Nov-16,688,Information Architect,External requester,Data Sharing Advice
+Nov-16,689,Information Architect,Policy and Science,Wisdom
+Nov-16,690,Information Architect,Policy and Science,Wisdom
+Nov-16,691,Information Architect,External requester,Data Sharing Advice
+Nov-16,692,Information Architect,Operations,Email
+Nov-16,693,Information Architect,Private Office,Records Mgmt Advice
+Nov-16,694,Deputy Security Officer,External requester,Security - Personal
+Dec-16,695,Information Architect,Finance and Performance,Wisdom
+Nov-16,696,Information Architect,Operations,Network Drives
+Dec-16,697,Information Architect,Finance and Performance,Wisdom
+Dec-16,698,Information Architect,Finance and Performance,Wisdom
+Dec-16,699,Security Manager,Openness Data and Digital,Security - IT/Information
+Nov-16,700,Information & Security Team Leader,Operations,Network Drives
+Nov-16,701,Deputy Security Officer,Operations,Non IKM Queries
+Nov-16,702,Information governance Manager,Regulatory and Legal Strategy,Non IKM Queries
+Nov-16,703,Information Architect,Operations,Wisdom
+Nov-16,704,Information Architect,Finance and Performance,Wisdom
+Nov-16,705,Information Architect,Finance and Performance,Wisdom
+Dec-16,706,Information governance Manager,Operations,Data Sharing Advice
+Dec-16,707,Information & Security Team Leader,External requester,Data Sharing Advice
+Dec-16,708,Information & Security Team Leader,Regulatory and Legal Strategy,Email
+Dec-16,709,Security Manager,Regulatory and Legal Strategy,Security - Physical
+Dec-16,710,Deputy Security Officer,External requester,Data Protection Advice
+Dec-16,711,Information Architect,Policy and Science,Paper Records
+Dec-16,712,Security Manager,External requester,Security - IT/Information
+Dec-16,713,Security Manager,Private Office,Non IKM Queries
+Dec-16,714,Security Manager,NI and Organisational Development,Security - IT/Information
+Dec-16,715,Information Architect,NI and Organisational Development,Wisdom
+Dec-16,716,Information Architect,Operations,Wisdom
+Dec-16,717,Deputy Security Officer,Wales and Local Delivery,Security - IT/Information
+Dec-16,718,Information Architect,External requester,Network Drives
+Dec-16,719,Information & Security Team Leader,Regulatory and Legal Strategy,Data Sharing Advice
+Dec-16,720,Information Architect,Policy and Science,Wisdom
+Dec-16,721,Security Manager,Openness Data and Digital,Network Drives
+Dec-16,722,Security Manager,Openness Data and Digital,Network Drives
+Dec-16,723,Information Architect,External requester,Network Drives
+Dec-16,724,Information Architect,External requester,Network Drives
+Dec-16,725,Information Architect,External requester,Network Drives
+Dec-16,726,Information Architect,Operations,Wisdom
+Dec-16,727,Information Architect,Policy and Science,Offsite Storage Issues
+Dec-16,728,Security Manager,External requester,Security - IT/Information
+Dec-16,729,Information Architect,Finance and Performance,Wisdom
+Dec-16,730,Information Architect,Operations,Network Drives
+Dec-16,731,Information governance Manager,Finance and Performance,Data Sharing Advice
+Dec-16,732,Security Manager,External requester,Security - IT/Information
+Dec-16,733,Information governance Manager,Finance and Performance,Data Sharing Advice
+Dec-16,734,Information governance Manager,Finance and Performance,Data Protection Advice
+Dec-16,735,Information Architect,Regulatory and Legal Strategy,Wisdom
+Dec-16,736,Information Architect,External requester,Network Drives
+Dec-16,737,Security Manager,Regulatory and Legal Strategy,Security - IT/Information
+Dec-16,738,Information Architect,Policy and Science,Email
+Dec-16,739,Information Architect,Regulatory and Legal Strategy,Wisdom
+Dec-16,740,Blank entry,Blank Entry,Blank Entry
+Dec-16,741,Security Manager,NI and Organisational Development,Security - IT/Information
+Dec-16,742,Deputy Security Officer,Finance and Performance,Security - Physical
+Dec-16,743,Deputy Security Officer,Finance and Performance,Security - IT/Information
+Nov-16,744,Information Architect,Policy and Science,Wisdom
+Nov-16,745,Information Architect,NI and Organisational Development,Wisdom
+Nov-16,746,Information governance Manager,Finance and Performance,Offsite Storage Issues
+Nov-16,747,Information governance Manager,Finance and Performance,Offsite Storage Issues
+Nov-16,748,Security Manager,External requester,Email
+Nov-16,749,Security Manager,External requester,Email
+Nov-16,750,Information Architect,Openness Data and Digital,Network Drives
+Dec-16,751,Information Architect,External requester,Wisdom
+Dec-16,752,Information governance Manager,External requester,Network Drives
+Dec-16,753,Information Architect,External requester,Data - Create Fileshare Access
+Dec-16,754,Information Architect,Operations,Wisdom
+Dec-16,755,Deputy Security Officer,External requester,Security - IT/Information
+Dec-16,756,Deputy Security Officer,Operations,Data Protection Advice
+Dec-16,757,Information Architect,External requester,Wisdom
+Dec-16,758,Information Architect,Finance and Performance,Wisdom
+Dec-16,759,Information governance Manager,Finance and Performance,Data Sharing
+Dec-16,760,Security Manager,Wales and Local Delivery,Email
+Dec-16,761,Security Manager,Openness Data and Digital,Security - IT/Information
+Dec-16,762,Security Manager,Policy and Science,Security - IT/Information
